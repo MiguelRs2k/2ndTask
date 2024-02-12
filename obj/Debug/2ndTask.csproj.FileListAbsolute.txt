@@ -1,0 +1,6 @@
+C:\Users\Master\source\repos\2ndTask\bin\Debug\2ndTask.exe
+C:\Users\Master\source\repos\2ndTask\bin\Debug\2ndTask.pdb
+C:\Users\Master\source\repos\2ndTask\obj\Debug\2ndTask.csprojAssemblyReference.cache
+C:\Users\Master\source\repos\2ndTask\obj\Debug\2ndTask.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\2ndTask\obj\Debug\2ndTask.exe
+C:\Users\Master\source\repos\2ndTask\obj\Debug\2ndTask.pdb
